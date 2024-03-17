@@ -13,3 +13,9 @@ Ce projet vise donc à créer un logiciel simpliste permettant à l'utilisateur 
 Les fonctionnalités typiques incluent la possibilité de dessiner (rond/carré), d'effacer, de choisir des couleurs, et éventuellement d'exporter ou sauvegarder les créations.
 J'ai rajouté à cela une fonction de zoom/dezoom, de rotation, un choix des couleurs totalement libre RGB(int[0,255], int[0,255], int[0,255]).
 Il y a aussi une sauvegarde	personnalisable à 100% (jusqu'au choix de l'extension)
+
+## Lancer My_Paint
+
+Pour lancer, il suffit de clone le github ou de le télécharger.
+Une fois cela effectué, allez dans ce dossier et faites 'make' !
+Puis lancer l'exécutable, et le tour est joué !
