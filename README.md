@@ -1,6 +1,8 @@
 # My_Paint
 Recréation de paint en C, tout en utilisant la librairie graphique CSFML.
+
 C'était un projet que j'ai effectué à mon école (Epitech Lille).
+
 Durée supposée du projet: 3 semaines.
 
 ## Installation de CSFML sur Linux, MacOS et Windows
