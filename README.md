@@ -22,5 +22,7 @@ Il y a aussi une sauvegarde	personnalisable à 100% (jusqu'au choix de l'extensi
 ## Lancer My_Paint
 
 Pour lancer, il suffit de clone le github ou de le télécharger.
-Une fois cela effectué, allez dans ce dossier et faites 'make' !
+
+Une fois cela effectué, allez dans ce dossier et faites `make`.
+
 Puis lancer l'exécutable, et le tour est joué !
