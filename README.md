@@ -5,7 +5,7 @@ Durée supposée du projet: 3 semaines.
 
 ## Installation de CSFML sur Linux, MacOS et Windows
 
-CLick on this [link1](https://terminalroot.com/install-csfml-sfml-for-c-language/) or [link2](https://www.sfml-dev.org/download/csfml/) or this [last one](https://zikoure.me/blog/getting-started-csfml#example)
+CLick on this [link1](https://terminalroot.com/install-csfml-sfml-for-c-language/) or [link2](https://www.sfml-dev.org/download/csfml/) or this [last one](https://zikoure.me/blog/getting-started-csfml#installation)
 
 ## Le projet
 
