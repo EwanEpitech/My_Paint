@@ -26,3 +26,7 @@ Pour lancer, il suffit de clone le github ou de le télécharger.
 Une fois cela effectué, allez dans ce dossier et faites `make`.
 
 Puis lancer l'exécutable, et le tour est joué !
+
+#Exemple du projet
+
+![Image d'un rendu du MyPaint](image.png)
